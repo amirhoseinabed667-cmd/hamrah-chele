@@ -1,10 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.amirhosein.hamrahchele",
-    "sha256_cert_fingerprints": [
-      "7B:76:60:A8:07:FE:56:5E:5A:91:3A:83:89:82:BC:56:92:F9:B6:51:C4:20:08:12:FD:A0:B9:77:7D:E1:80:A5"
-    ]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.amirhosein.hamrahchele",
+        "sha256_cert_fingerprints": ["7B:76:60:A8:07:FE:56:5E:5A:91:3A:83:89:82:BC:56:92:F9:B6:51:C4:20:08:12:FD:A0:B9:77:7D:E1:80:A5"]
+      }
+    }]
