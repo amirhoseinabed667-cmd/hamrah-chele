@@ -1,4 +1,4 @@
-const CACHE_NAME = "habit-tracker-v126";
+const CACHE_NAME = "habit-tracker-v127";
 
 const FILES_TO_CACHE = [
     "./",
